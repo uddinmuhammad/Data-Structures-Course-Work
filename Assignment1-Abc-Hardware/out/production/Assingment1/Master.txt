@@ -1,0 +1,8 @@
+Customer#   Name   Due
+1001    CUNY-BrooklynCollege    100
+1002    CUNY-HunterCollegeNY    150
+1003    CUNY-CityTechCollege    175
+1004    CUNY-LehmenCollegeCo    200
+1005    CUNY-QueensBoroughCC    160
+1006    CUNY-BoroughOfManaCC    449
+1007    CUNY-CityCollegeOfNY    650

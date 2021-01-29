@@ -1,0 +1,25 @@
+TType    CUST#   TRANS#  Item      Quantity   $$$
+O   1001    101    ComputerZMotherBoard    2   100
+O   1001    102    ABCComputerHardDrive    2   150
+P   1001    103    400
+O   1002    104    ABCComputerHardDrive    2   100
+O   1002    105    ABCComputerHDXScreen    2   150
+P   1002    106    350
+O   1003    107    ABCComputerZKeyBoard    8   50
+O   1003    108    ABCComputerHardDrive    4   150
+P   1003    109    700
+O   1003    110    ABCComputerLogiMouse    3   25
+O   1004    111    ABComputerOledScreen    1   350
+O   1004    112    ABCComputerAcrLaptop    1   400
+P   1004    113    550
+O   1005    114    ABCComputerHCXScreen    5   150
+O   1005    115    ABCComputerZKeyBoard    11  50
+P   1005    116    1490
+O   1005    117    ABCComputerHardDrive    1   100
+O   1006    118    MicrosoftSurfacePro7    1   999
+O   1006    119    ABcComputerZThinkPad    1   900
+O   1006    120    ABCComputerHDXScreen    3   150
+P   1006    121    1900
+O   1007    122    ABCComputerPCRAM16GB    10  85
+P   1007    123    500
+O   1007    124    ABCComputerHardDrive    3   100
